@@ -1,0 +1,12 @@
+{
+  "name": "reconai-gtm-sdk",
+  "version": "1.0.0",
+  "description": "ReconAI GTM SDK minimal Node setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"No build step required\""
+  },
+  "author": "Trustbyrecon",
+  "license": "ISC"
+}
