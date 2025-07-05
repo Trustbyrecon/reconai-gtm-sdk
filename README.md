@@ -1,4 +1,3 @@
-# Recon.AI SDK GTM Microsite
+# ReconAI GTM SDK
 
-This is the launch microsite for Recon.AI SDK.
-Deployed via Netlify with GitHub integration for CI/CD.
+Minimal Reflex SDK starter powered by Recon.AI for Netlify deployment.
